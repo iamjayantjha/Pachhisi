@@ -4,6 +4,7 @@
 This is a 3D Pachhisi game implemented using `three.js`. The game features two players: Player One (Red) and Player Two (Yellow). Each player can roll the dice and move their pieces on the board using specific keys.
 
 ## Controls
+Remember that when you try to move a piece the dice will be rolled automatically and the piece will move according to the number on the dice.
 - **Player One (Red) Controls:**
     - `W`: Move piece up
     - `A`: Move piece left

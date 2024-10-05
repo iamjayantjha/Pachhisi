@@ -1,6 +1,6 @@
 let scene, camera, renderer, controls;
 let mouseEvents = [];
-
+//Question 3 - Log mouse events
 function logMouseEvent(event) {
     const eventData = {
         type: event.type,
